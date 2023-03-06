@@ -12,7 +12,7 @@
 - Used colors to fit with a picture I took in Florida (not finished just a starter)
 - Decided to just try my best to go off of the template given to us but made my own minor tweaks (this is my first time making a site
 ## Importance of this assignment
-- This challenge is important for building a portfolio of all of my work that I do throughout the course and use it at the end for my job searching
+- This challenge is important for building a portfolio of all of my work that I do throughout the course and use it later on for my job searching
 - To build a appication from scratch! (my first time)
 ## Our wesbite
 https://sandregg2.github.io/module-2-challenge-seth/
