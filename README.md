@@ -19,3 +19,6 @@
 - To build a appication from scratch! (my first time)
 ## Our wesbite
 https://sandregg2.github.io/module-2-challenge-seth/
+## Helpful sites used
+https://www.w3schools.com/default.asp
+https://1stwebdesigner.com/css-effects/
