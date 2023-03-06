@@ -9,7 +9,7 @@
 - Learned more about navigation and using buttons on my website to navigate through the UI and it was one of my favorite parts of this challenge
 - Worked with a ton of colors and fonts to get what resembles me best and I love how it turned out
 - Learned about the CSS @media rule and used that to adjust the site when on a small screen (phones)
-- Used colors to fit with a picture I took in Florida (not finished just a starter)
+- Worked with colors and fonts to fit with a header (not finished just a starter)
 - Decided to just try my best to go off of the template given to us but made my own minor tweaks (this is my first time making a site
 ## Importance of this assignment
 - This challenge is important for building a portfolio of all of my work that I do throughout the course and use it later on for my job searching
