@@ -1,9 +1,6 @@
 # Module 2 Challenge
 - This is a README for our second challenge for our coding bootcamp
 ## Description of challenge
-- # Module 1 Challenge
-- This is a README for our first challenge for our coding bootcamp
-## Description of challenge
 - Building a portfolio of work that can showcase my skills and talents to employers looking to fill a part-time or full-time position. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. That is exactly what I am doing here with this challenge.
 ## What I did in this assignment
 - Learned more about "hovering" in CSS and the functionality of it
