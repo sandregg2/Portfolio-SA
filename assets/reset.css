@@ -27,11 +27,6 @@ select {
   font: inherit;
 }
 
-/* Set core root defaults */
-html:focus-within {
-  scroll-behavior: smooth;
-}
-
 /* this helps with images */
 img,
 picture {
@@ -56,4 +51,9 @@ a:not([class]) {
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+/* core root defaults assigned */
+html:focus-within {
+  scroll-behavior: smooth;
 }
