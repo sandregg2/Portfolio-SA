@@ -12,7 +12,8 @@
 - Learned about the CSS @media rule and used that to adjust the site when on a small screen (phones)
 - Worked with colors and fonts to fit with a header (not finished just a starter)
 - Used shadows to give it a better look
-- Decided to just try my best to go off of the template given to us but made my own minor tweaks (this is my first time making a site
+- Decided to just try my best to go off of the template given to us but made my own minor tweaks (this is my first time making a site)
+- made a reset.css
 ## Importance of this assignment
 - This challenge is important for building a portfolio of all of my work that I do throughout the course and use it later on for my job searching
 - To build a appication from scratch! (my first time)
