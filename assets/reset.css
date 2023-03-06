@@ -19,10 +19,12 @@ dd {
   box-sizing: border-box;
 }
 
-/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul[role='list'],
-ol[role='list'] {
-  list-style: none;
+/* inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
 }
 
 /* Set core root defaults */
@@ -30,7 +32,14 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
-/* Set core body defaults */
+/* this helps with images */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* body defaults (researched) */
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
@@ -42,17 +51,9 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 
-/* Make images easier to work with */
-img,
-picture {
-  max-width: 100%;
-  display: block;
-}
-
-/* Inherit fonts for inputs and buttons */
-input,
-button,
-textarea,
-select {
-  font: inherit;
+/* box sizings */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
