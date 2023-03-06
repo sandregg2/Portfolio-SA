@@ -58,7 +58,7 @@ header .header-title{
     height: 65px;
     margin: 10px 0px 5px 0px;
     background-color: var(--accent-color-1);
-    padding: 5px 20px 5px 20px;
+    padding: 2px 20px 2px 20px;
     min-width: fit-content;
 }
 
@@ -68,7 +68,7 @@ figure .header-title {
     height: 65px;
     margin: 5px 0px 10px 0px;
     background-color: var(--accent-color-1);
-    padding: 5px 20px 5px 20px;
+    padding: 2px 20px 2px 20px;
     min-width: fit-content;
 }
 
