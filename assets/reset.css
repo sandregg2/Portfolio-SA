@@ -19,22 +19,18 @@ dd {
   box-sizing: border-box;
 }
 
-/* inherit fonts for inputs and buttons */
-input,
-button,
-textarea,
-select {
-  font: inherit;
+/* default styling removal */
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
 }
 
-/* this helps with images */
-img,
-picture {
-  max-width: 100%;
-  display: block;
+/* root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
 }
 
-/* body defaults (researched) */
+/* body defaults */
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
@@ -46,14 +42,22 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 
-/* box sizings */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
 }
 
-/* core root defaults assigned */
-html:focus-within {
-  scroll-behavior: smooth;
+/* default styling removal */
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
 }
