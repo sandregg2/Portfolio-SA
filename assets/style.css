@@ -8,7 +8,7 @@
 body {
     background-color: var(--primary-color);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     flex-direction: column;
     display: flex;
 }
@@ -52,29 +52,36 @@ header {
     justify-content: space-between;
 }
 
-header .header-title{
+header .header-title {
     color: var(--bright);
     margin-top: 20px;
     height: 65px;
-    margin: 10px 0px 5px 0px;
+    margin: 5px 10px 25px 30px;
     background-color: var(--accent-color-1);
-    padding: 2px 20px 2px 20px;
+    padding: 5px 20px 5px 20px;
     min-width: fit-content;
+    /* created a shadow for my title */
+    border-radius: 10px;
+    box-shadow: rgba(205, 94, 83, .5) -5px 5px, rgba(205, 94, 83, .3) -10px 10px, rgba(205, 94, 83, .2) -15px 15px, rgba(205, 94, 83, .1) -20px 20px, rgba(205, 94, 83, .5) -25px 25px;
 }
 
 figure .header-title {
     color: var(--bright);
     margin-top: 20px;
     height: 65px;
-    margin: 5px 0px 10px 0px;
+    margin: 5px 10px 30px 30px;
     background-color: var(--accent-color-1);
-    padding: 2px 20px 2px 20px;
+    padding: 5px 20px 5px 20px;
     min-width: fit-content;
+}
+
+ figure .header-image {
+    border: 5px solid var(--bright);
 }
 
 nav {
     align-self: center;
-    margin: 1px 25px 0px 0px;
+    margin: 0px 25px 0px 0px
 }
 
 nav ul a {
@@ -152,7 +159,7 @@ main {
     align-self: flex-end;
 }
 
-/* hovering effects */
+/* hovering effects for boxes */
 .work-feature-head:hover,
 .work-feature:hover{
     opacity: 0.50;
