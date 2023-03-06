@@ -7,7 +7,8 @@
 - Used variables for the first time that we learned in class while I was working on this challenge
 - Used flexbox containers that we learned about after doing a mini project in class for it
 - Learned more about navigation and using buttons on my website to navigate through the UI and it was one of my favorite parts of this challenge
-- Worked with a ton of colors and fonts to get what resembles me best and I love how it turned out
+- Tweaked a lot of things in the styling to get what resembles me best and I love how it turned out
+- Tried to keep my code in a organized order and wrote comments on things I did that felt important to my application
 - Learned about the CSS @media rule and used that to adjust the site when on a small screen (phones)
 - Worked with colors and fonts to fit with a header (not finished just a starter)
 - Decided to just try my best to go off of the template given to us but made my own minor tweaks (this is my first time making a site
