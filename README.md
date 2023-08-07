@@ -17,8 +17,8 @@
 ## Importance of this assignment
 - This challenge is important for building a portfolio of all of my work that I do throughout the course and use it later on for my job searching
 - To build a appication from scratch! (my first time)
-## Our wesbite
-https://sandregg2.github.io/module-2-challenge-seth/
+## Our website
+[https://sandregg2.github.io/module-2-challenge-seth/](https://sandregg2.github.io/Portfolio-SA/)
 ## Helpful sites used
 https://www.w3schools.com/default.asp
 https://1stwebdesigner.com/css-effects/
