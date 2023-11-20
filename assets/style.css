@@ -1,14 +1,14 @@
 :root{
-    --primary-color: #16464e;
-    --secondary-color: #cd5e53;
-    --bright: #cd5e53;
-    --accent-color-1: #99aab1;
+    --primary-color:  #ffffff;
+    --secondary-color: #380601;
+    --bright: #380601;
+    --accent-color-1: #e78c83;
 }
 
 body {
     background-color: var(--primary-color);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     flex-direction: column;
     display: flex;
 }
@@ -55,12 +55,12 @@ header {
 header .header-title {
     color: var(--bright);
     margin-top: 20px;
-    height: 65px;
-    margin: 5px 10px 25px 30px;
+    font-size: 20px;
+    height: 125px;
+    margin: 20px 10px 25px 30px;
     background-color: var(--accent-color-1);
-    padding: 5px 20px 5px 20px;
+    padding: 25px 100px 25px 100px;
     min-width: fit-content;
-    /* created a shadow for my title */
     border-radius: 10px;
     box-shadow: rgba(205, 94, 83, .5) -5px 5px, rgba(205, 94, 83, .3) -10px 10px, rgba(205, 94, 83, .2) -15px 15px, rgba(205, 94, 83, .1) -20px 20px, rgba(205, 94, 83, .5) -25px 25px;
 }
@@ -68,15 +68,18 @@ header .header-title {
 figure .header-title {
     color: var(--bright);
     margin-top: 20px;
-    height: 65px;
-    margin: 5px 10px 30px 30px;
+    height: 125px;
+    margin: 20px 10px 30px 30px;
     background-color: var(--accent-color-1);
-    padding: 5px 20px 5px 20px;
+    padding: 25px 100px 25px 100px;
     min-width: fit-content;
 }
 
  figure .header-image {
     border: 5px solid var(--bright);
+    border-radius: 5px;
+    margin: 5px 150px 5px 5px;
+    width: 30%;
 }
 
 nav {
@@ -91,7 +94,7 @@ nav ul a {
     border-bottom: 4px solid var(--bright);
     display: inline;
     list-style-type: none;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 main {
@@ -119,6 +122,7 @@ main {
     padding: 0px 0px 0px 30px;
     width: 80%;
     color: var(--bright);
+    font-size: 20px;
 }
 
 .work {
@@ -198,35 +202,61 @@ ul#contactlist li {
 }
 
 /* will change these as we progress through the course */
-.example-1 {
-    background-image: url(../assets/images/Ocean-Waves-Fog.jpg);
+.project-1 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 141344.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
-.example-2 {
-    background-image: url(../assets/images/sunset-ocean.jpg);
+.project-2 {
+    background-image: url(../assets/images/begr7btw.bmp);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
-.example-3 {
-    background-image: url(../assets/images/ocean-wave-sunset.jpg);
+.project-3 {
+    background-image: url(../assets/images/258936985-b48e8058-442e-4495-b493-535099ffa424.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
-.example-4 {
-    background-image: url(../assets/images/44P5llm.jpg);
+.challenge-1 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 141142.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
-.example-5 {
-    background-image: url(../assets/images/OIP.jpg);
+.challenge-2 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 143659.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
+
+.challenge-3 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 144113.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.challenge-4 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 144206.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.challenge-5 {
+    background-image: url(../assets/images/Screenshot\ 2023-11-20\ 144344.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.challenge-6 {
+    background-image: url(../assets/images/5qew6t5v.bmp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
 
 /* navigation for buttons on header */
 @media only screen and (max-width: 768px) {
